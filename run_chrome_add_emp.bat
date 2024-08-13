@@ -1,0 +1,1 @@
+pytest -v -n=2 -k "Test_AddEmp" --html=HTML-Report/my-report.html --alluredir="AllureReports" --browser chrome --disable-warnings

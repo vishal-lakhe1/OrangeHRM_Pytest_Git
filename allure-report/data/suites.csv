@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","11037","test_OrangeHRM_Login_002","testCases","Tue Aug 13 02:25:28 IST 2024","passed","Tue Aug 13 02:25:39 IST 2024","Test_OrangeHRM_Login","test_OrangeHRM_Login","",""
+"","5876","test_OrangeHRM_url_001","testCases","Tue Aug 13 02:25:27 IST 2024","passed","Tue Aug 13 02:25:33 IST 2024","Test_OrangeHRM_Login","test_OrangeHRM_Login","",""

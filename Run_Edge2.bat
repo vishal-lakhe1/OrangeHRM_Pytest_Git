@@ -1,0 +1,1 @@
+pytest -v -s -n=4 "testCases/test_OrangeHRM_SearchEmp.py" --browser edge --disable-warnings

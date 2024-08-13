@@ -1,0 +1,1 @@
+pytest -v -s -n=4 --html=HTMLReports/myreport_edge.html --alluredir="AllureReportsEdge" --disable-warnings --browser edge -m "sanity and group1"
